@@ -1,0 +1,79 @@
+/*This is for home page. */
+body{
+	margin:0px;
+	padding:0px;
+	height:700px;
+	background-position:center;
+	background-image:linear-gradient(white 25%,#34E9F3);  
+}
+/*This is for body of all html*/
+
+ul  {
+	float:bottom;
+	margin-top:500px;
+	display: inline-block;
+	padding-top:20px;
+	padding-left:180px;
+
+
+}
+
+ul a{
+	background-color:white;
+	text-decoration: none;
+	color:black;
+	padding-left: 20px;
+	padding-right:25px;	
+	border: 2px solid black;
+	transition: 1s;
+}
+
+ul a:hover{
+	color: blue;
+}
+
+ul .active a{
+	background-color: #fff ;
+	color: #000;
+}
+/
+
+
+.fin{
+	margin-left:40px;
+}
+.photo{
+
+	height:400px;
+	width:500px;
+	margin-top:150px;
+	margin-left:720px;
+	padding:20px;
+	opacity:70%;
+}
+
+/*The End For Home Page.*/
+/*The start of Portfolio page*/
+
+
+/*The End For Portfolio Page.*/
+/*The start of Contact page*/
+.insane{
+	float:left;
+	width:300px;
+	margin-top:120px;
+	margin-left: 30px; 
+}
+.photo1{
+	height:400px;
+	width:360px;
+	margin-top: 120px;
+	margin-left: 500px;
+	padding:30px;
+	opacity:70%;
+
+}
+/*The start of CV page*/
+/*The end of CV page**/
+/*The start of site report*/
+/*The End of site report*/
